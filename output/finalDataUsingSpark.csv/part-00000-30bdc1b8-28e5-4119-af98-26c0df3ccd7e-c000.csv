@@ -1,0 +1,557 @@
+State,Area_name,Urban_Influence_Code_2003,Rural-urban_Continuum_Code_2013,POV_elder_than17_2018
+Alabama,Chambers County AL,5,6,65.98
+Alabama,Coffee County AL,5,4,62.57
+Alabama,Coosa County AL,7,8,73.34
+Alabama,Covington County AL,9,6,67.66
+Alabama,Cullman County AL,3,4,69.78
+Alabama,Dale County AL,5,4,65.16
+Alabama,Dallas County AL,5,4,63.73
+Alabama,Jackson County AL,5,6,71.79
+Alabama,Macon County AL,5,6,76.17
+Alabama,Marshall County AL,5,4,62.33
+Alabama,Pike County AL,5,6,74.03
+Alabama,Talladega County AL,5,4,70.99
+Alabama,Washington County AL,7,8,67.81
+Alaska,Denali Borough AK,7,8,79.26
+Arizona,Gila County AZ,3,4,67.07
+Arizona,Santa Cruz County AZ,5,4,60.66
+Arkansas,Drew County AR,11,6,69.45
+Arkansas,Greene County AR,5,4,65.45
+Arkansas,Hempstead County AR,5,6,61.39
+Arkansas,Howard County AR,9,6,58.92
+Arkansas,Lafayette County AR,7,8,72.36
+Arkansas,Mississippi County AR,5,4,63.37
+Arkansas,Montgomery County AR,7,8,69.98
+Arkansas,Prairie County AR,7,8,69.38
+Arkansas,St. Francis County AR,3,6,68.03
+Arkansas,Sevier County AR,11,6,58.38
+Arkansas,Van Buren County AR,7,8,67.49
+Arkansas,White County AR,5,4,68.11
+Arkansas,Yell County AR,5,6,62.55
+California,Lake County CA,5,4,70.33
+California,Mariposa County CA,7,8,74.85
+California,Mendocino County CA,5,4,69.26
+California,Nevada County CA,3,4,77.42
+California,Sierra County CA,7,8,78.32
+California,Siskiyou County CA,11,6,71.62
+California,Tehama County CA,5,4,66.05
+California,Tuolumne County CA,5,4,76.95
+Colorado,Crowley County CO,7,8,85.31
+Colorado,Custer County CO,7,8,70.66
+Colorado,Fremont County CO,5,4,74.05
+Colorado,La Plata County CO,5,4,77.06
+Colorado,Morgan County CO,3,6,67.06
+Connecticut,Litchfield County CT,5,4,78.76
+Connecticut,Windham County CT,5,2,74.49
+Delaware,Sussex County DE,5,2,67.77
+Florida,Calhoun County FL,7,6,68.63
+Florida,Columbia County FL,5,4,64.96
+Florida,DeSoto County FL,5,6,74.36
+Florida,Dixie County FL,7,6,74.59
+Florida,Flagler County FL,5,2,70.1
+Florida,Franklin County FL,7,6,70.93
+Florida,Hamilton County FL,7,6,70.77
+Florida,Hardee County FL,5,6,61.49
+Florida,Hendry County FL,5,4,63.34
+Florida,Levy County FL,7,6,68.43
+Florida,Liberty County FL,7,8,74.26
+Florida,Monroe County FL,3,4,75.78
+Florida,Okeechobee County FL,5,4,64.99
+Florida,Putnam County FL,3,4,62.24
+Florida,Union County FL,7,6,71.91
+Georgia,Baldwin County GA,5,4,72.18
+Georgia,Banks County GA,7,8,67.11
+Georgia,Bulloch County GA,5,4,77.41
+Georgia,Calhoun County GA,7,8,72.37
+Georgia,Camden County GA,3,4,67.05
+Georgia,Chattooga County GA,5,6,70.64
+Georgia,Colquitt County GA,5,6,62.96
+Georgia,Crisp County GA,5,6,62.16
+Georgia,Decatur County GA,5,6,61.62
+Georgia,Dodge County GA,9,6,73.74
+Georgia,Evans County GA,7,6,60.32
+Georgia,Franklin County GA,7,8,65.6
+Georgia,Gordon County GA,5,4,61.59
+Georgia,Habersham County GA,5,6,67.5
+Georgia,Lincoln County GA,7,2,71.99
+Georgia,Miller County GA,7,8,67.9
+Georgia,Pierce County GA,5,6,62.75
+Georgia,Polk County GA,3,4,63.81
+Georgia,Schley County GA,5,8,66.35
+Georgia,Stewart County GA,7,8,83.27
+Georgia,Sumter County GA,5,6,63.76
+Georgia,Taliaferro County GA,7,8,71.65
+Georgia,Taylor County GA,7,8,69.11
+Georgia,Thomas County GA,5,4,64.06
+Georgia,Troup County GA,3,4,66.33
+Georgia,Upson County GA,3,6,66.55
+Georgia,Warren County GA,7,8,66.77
+Georgia,Wayne County GA,5,6,60.13
+Georgia,Webster County GA,7,8,70.95
+Georgia,White County GA,7,6,67.36
+Georgia,Wilkinson County GA,7,8,61.45
+Idaho,Bingham County ID,5,4,59.29
+Idaho,Elmore County ID,5,6,60.03
+Idaho,Fremont County ID,5,6,62.78
+Idaho,Latah County ID,5,4,83.77
+Idaho,Lewis County ID,7,8,63.1
+Idaho,Madison County ID,5,4,81.3
+Idaho,Oneida County ID,7,8,62.75
+Idaho,Payette County ID,5,6,67.17
+Idaho,Shoshone County ID,7,6,73.09
+Idaho,Valley County ID,7,8,69.92
+Illinois,Christian County IL,5,6,70.25
+Illinois,Franklin County IL,9,4,70.28
+Illinois,Fulton County IL,5,6,69.84
+Illinois,Gallatin County IL,7,8,68.61
+Illinois,Knox County IL,5,4,71.28
+Illinois,La Salle County IL,3,4,67.57
+Illinois,Lee County IL,3,6,70.27
+Illinois,Livingston County IL,5,4,70.88
+Illinois,Logan County IL,5,6,65.74
+Illinois,Marion County IL,3,4,64.08
+Illinois,Morgan County IL,5,4,69.51
+Illinois,Ogle County IL,5,4,70.19
+Illinois,Perry County IL,9,6,71.66
+Illinois,Putnam County IL,5,8,70.87
+Illinois,Stephenson County IL,5,4,64.72
+Illinois,Union County IL,9,6,70.64
+Illinois,Whiteside County IL,5,4,64.38
+Indiana,Adams County IN,5,6,41.15
+Indiana,Cass County IN,5,4,70.9
+Indiana,Clinton County IN,5,6,63.93
+Indiana,Decatur County IN,3,6,68.09
+Indiana,De Kalb County IN,5,4,69.9
+Indiana,Franklin County IN,1,6,70.09
+Indiana,Grant County IN,5,4,66.31
+Indiana,Henry County IN,3,4,72.16
+Indiana,Huntington County IN,5,6,69.45
+Indiana,Jackson County IN,5,4,69.19
+Indiana,Jefferson County IN,3,6,69.85
+Indiana,Jennings County IN,5,6,66.62
+Indiana,Kosciusko County IN,5,4,67.23
+Indiana,Lawrence County IN,5,6,70.05
+Indiana,Marshall County IN,5,6,69.3
+Indiana,Miami County IN,5,6,68.45
+Indiana,Montgomery County IN,3,6,66.7
+Indiana,Noble County IN,5,6,67.64
+Indiana,Perry County IN,9,6,70.37
+Indiana,Pike County IN,5,8,73.01
+Indiana,Spencer County IN,7,8,72.05
+Indiana,Wabash County IN,5,6,70.67
+Indiana,Warren County IN,7,8,63.69
+Iowa,Adair County IA,7,8,70.61
+Iowa,Audubon County IA,7,8,65.87
+Iowa,Boone County IA,5,6,77.13
+Iowa,Butler County IA,7,8,71.86
+Iowa,Clayton County IA,7,8,70.68
+Iowa,Clinton County IA,5,4,69.67
+Iowa,Henry County IA,9,6,70.74
+Iowa,Howard County IA,11,6,66.67
+Iowa,Ida County IA,7,8,70.27
+Iowa,Jasper County IA,5,6,74.57
+Iowa,Keokuk County IA,7,8,66.93
+Iowa,Louisa County IA,5,8,71.01
+Iowa,Marshall County IA,5,4,66.66
+Iowa,Muscatine County IA,5,4,66.44
+Iowa,Page County IA,11,6,71.8
+Kansas,Atchison County KS,3,6,70.89
+Kansas,Clay County KS,9,6,63.17
+Kansas,Cowley County KS,5,4,65.83
+Kansas,Crawford County KS,5,4,73.24
+Kansas,Elk County KS,7,8,65.9
+Kansas,Franklin County KS,1,6,65.6
+Kansas,Harper County KS,7,8,64.62
+Kansas,Marshall County KS,9,6,68.45
+Kansas,Morris County KS,9,8,68.87
+Kansas,Reno County KS,5,4,71.18
+Kentucky[E],Anderson County KY,5,6,66.64
+Kentucky[E],Barren County KY,5,6,67.53
+Kentucky[E],Bath County KY,5,8,59.92
+Kentucky[E],Breckinridge County KY,7,8,71.52
+Kentucky[E],Franklin County KY,5,4,69.38
+Kentucky[E],Green County KY,7,8,70.02
+Kentucky[E],Hart County KY,7,8,68.67
+Kentucky[E],Lawrence County KY,7,6,71.48
+Kentucky[E],Lewis County KY,5,8,72.08
+Kentucky[E],Madison County KY,5,4,76.68
+Kentucky[E],Mason County KY,3,6,68.27
+Kentucky[E],Monroe County KY,9,8,66.34
+Kentucky[E],Montgomery County KY,5,6,67.91
+Kentucky[E],Muhlenberg County KY,5,6,72.4
+Kentucky[E],Nelson County KY,1,6,68.81
+Kentucky[E],Nicholas County KY,7,8,57.0
+Kentucky[E],Todd County KY,7,8,62.09
+Louisiana,Acadia Parish LA,5,2,63.67
+Louisiana,Assumption Parish LA,5,6,70.21
+Louisiana,Beauregard Parish LA,5,6,69.63
+Louisiana,Caldwell Parish LA,7,8,64.92
+Louisiana,Claiborne Parish LA,9,6,72.46
+Louisiana,Iberia Parish LA,5,2,57.85
+Louisiana,Jackson Parish LA,5,6,65.97
+Louisiana,Jefferson Davis Parish LA,5,6,65.18
+Louisiana,Lincoln Parish LA,5,4,74.56
+Louisiana,Morehouse Parish LA,5,6,63.1
+Louisiana,Natchitoches Parish LA,5,6,75.04
+Louisiana,Red River Parish LA,7,8,66.25
+Louisiana,St. Landry Parish LA,5,4,61.69
+Louisiana,St. Mary Parish LA,5,4,67.25
+Louisiana,Vermilion Parish LA,5,2,65.13
+Louisiana,Washington Parish LA,3,6,63.31
+Louisiana,Webster Parish LA,5,2,69.45
+Maine,Kennebec County ME,5,4,74.32
+Maine,Lincoln County ME,7,8,75.07
+Maryland,Dorchester County MD,5,6,63.33
+Maryland,Garrett County MD,7,6,72.18
+Maryland,Talbot County MD,3,6,71.37
+Maryland,Worcester County MD,5,2,70.72
+Michigan,Allegan County MI,5,4,69.66
+Michigan,Arenac County MI,7,8,72.75
+Michigan,Branch County MI,5,6,65.41
+Michigan,Clare County MI,9,6,69.21
+Michigan,Gratiot County MI,5,6,71.65
+Michigan,Lenawee County MI,5,4,70.89
+Michigan,Mecosta County MI,5,6,78.09
+Michigan,Oceana County MI,7,6,66.24
+Michigan,St. Joseph County MI,5,4,68.37
+Michigan,Shiawassee County MI,5,4,70.52
+Minnesota,Aitkin County MN,7,8,75.66
+Minnesota,Clearwater County MN,7,8,65.4
+Minnesota,Faribault County MN,9,6,67.24
+Minnesota,Goodhue County MN,3,4,75.63
+Minnesota,Kandiyohi County MN,5,4,62.22
+Minnesota,Koochiching County MN,11,6,73.66
+Minnesota,McLeod County MN,3,6,70.83
+Minnesota,Mahnomen County MN,7,8,55.51
+Minnesota,Marshall County MN,7,8,73.17
+Minnesota,Mower County MN,5,4,71.16
+Minnesota,Norman County MN,7,8,62.81
+Minnesota,Otter Tail County MN,5,6,70.1
+Minnesota,Red Lake County MN,7,8,71.63
+Minnesota,Renville County MN,9,8,65.91
+Minnesota,Rice County MN,3,4,70.95
+Minnesota,Waseca County MN,9,6,68.89
+Minnesota,Watonwan County MN,9,6,67.36
+Minnesota,Wilkin County MN,5,6,67.66
+Minnesota,Winona County MN,5,4,83.73
+Mississippi,Amite County MS,5,8,69.73
+Mississippi,Claiborne County MS,7,8,69.65
+Mississippi,Greene County MS,7,8,73.56
+Mississippi,Humphreys County MS,9,6,60.43
+Mississippi,Jefferson Davis County MS,7,8,71.61
+Mississippi,Jones County MS,5,4,63.62
+Mississippi,Lafayette County MS,3,4,81.99
+Mississippi,Lawrence County MS,7,8,64.75
+Mississippi,Lincoln County MS,5,6,69.46
+Mississippi,Pearl River County MS,3,6,66.86
+Mississippi,Smith County MS,7,8,65.86
+Mississippi,Tippah County MS,9,6,66.48
+Mississippi,Union County MS,9,6,64.99
+Mississippi,Warren County MS,5,4,61.58
+Mississippi,Wilkinson County MS,7,8,69.2
+Mississippi,Yazoo County MS,5,2,70.04
+Missouri,Audrain County MO,5,6,63.17
+Missouri,Dade County MO,7,8,69.16
+Missouri,Gentry County MO,7,8,68.52
+Missouri,Hickory County MO,7,8,67.38
+Missouri,Holt County MO,7,8,68.88
+Missouri,Johnson County MO,3,4,77.86
+Missouri,Laclede County MO,5,6,64.87
+Missouri,Madison County MO,9,6,66.75
+Missouri,Maries County MO,7,8,71.87
+Missouri,Mississippi County MO,9,6,68.46
+Missouri,Nodaway County MO,5,6,87.54
+Missouri,Perry County MO,9,6,68.24
+Missouri,Pettis County MO,3,4,65.65
+Missouri,Randolph County MO,5,6,65.53
+Missouri,St. Francois County MO,3,4,70.32
+Missouri,Saline County MO,3,6,69.23
+Missouri,Stoddard County MO,9,6,68.0
+Missouri,Stone County MO,5,6,74.1
+Missouri,Taney County MO,5,4,68.39
+Missouri,Washington County MO,1,6,69.95
+Montana,Chouteau County MT,7,8,68.77
+Montana,Granite County MT,7,8,77.06
+Montana,Judith Basin County MT,7,8,75.77
+Montana,Mineral County MT,7,8,68.39
+Montana,Musselshell County MT,7,8,67.15
+Montana,Powell County MT,9,6,77.89
+Montana,Sanders County MT,7,8,73.33
+Montana,Stillwater County MT,7,8,70.76
+Montana,Teton County MT,7,8,69.29
+Montana,Treasure County MT,7,8,59.74
+Nebraska,Burt County NE,7,8,71.51
+Nebraska,Dodge County NE,5,4,70.12
+Nebraska,Gage County NE,5,6,72.04
+Nebraska,Johnson County NE,7,8,76.55
+Nebraska,Thurston County NE,7,8,50.84
+Nebraska,York County NE,11,6,70.2
+Nevada,Churchill County NV,5,6,64.55
+Nevada,Douglas County NV,5,4,73.62
+Nevada,Nye County NV,3,4,71.23
+New Hampshire,Belknap County NH,3,4,69.34
+New Hampshire,Cheshire County NH,5,4,76.53
+New Hampshire,Merrimack County NH,5,4,74.93
+New Mexico,Cibola County NM,5,6,69.36
+New Mexico,Los Alamos County NM,5,6,82.13
+New Mexico,Luna County NM,5,6,63.53
+New Mexico,Otero County NM,5,4,65.56
+New Mexico,Rio Arriba County NM,5,4,69.68
+New Mexico,San Miguel County NM,5,6,77.46
+New York,Cattaraugus County NY,3,4,68.35
+New York,Cayuga County NY,5,4,72.83
+New York,Chautauqua County NY,3,4,69.42
+New York,Columbia County NY,5,6,76.24
+New York,Cortland County NY,5,4,77.69
+New York,Fulton County NY,5,4,69.71
+New York,Genesee County NY,3,4,70.55
+New York,Hamilton County NY,7,8,78.47
+New York,Montgomery County NY,5,4,64.71
+New York,Schuyler County NY,7,6,70.48
+New York,Seneca County NY,3,6,67.4
+New York,Steuben County NY,5,4,68.99
+North Carolina,Anson County NC,1,6,67.63
+North Carolina,Avery County NC,7,8,74.9
+North Carolina,Beaufort County NC,5,6,69.58
+North Carolina,Camden County NC,3,8,72.85
+North Carolina,Carteret County NC,5,4,71.74
+North Carolina,Caswell County NC,7,8,67.71
+North Carolina,Chowan County NC,9,6,64.6
+North Carolina,Cleveland County NC,3,4,67.36
+North Carolina,Davidson County NC,5,2,66.32
+North Carolina,Halifax County NC,5,4,66.82
+North Carolina,Harnett County NC,5,4,64.05
+North Carolina,Hertford County NC,11,6,71.64
+North Carolina,Lee County NC,5,4,65.62
+North Carolina,Lenoir County NC,5,4,62.02
+North Carolina,Moore County NC,5,4,70.03
+North Carolina,Polk County NC,7,8,72.29
+North Carolina,Robeson County NC,5,4,63.38
+North Carolina,Rutherford County NC,5,4,69.59
+North Carolina,Scotland County NC,5,6,62.63
+North Carolina,Stanly County NC,3,6,68.1
+North Carolina,Surry County NC,5,4,68.95
+North Carolina,Swain County NC,7,8,67.09
+North Carolina,Transylvania County NC,5,6,72.32
+North Carolina,Vance County NC,5,4,68.13
+North Carolina,Warren County NC,7,8,71.25
+North Carolina,Wilkes County NC,5,6,66.0
+North Carolina,Wilson County NC,5,4,66.19
+North Carolina,Yancey County NC,7,8,73.17
+North Dakota,Emmons County ND,7,8,74.94
+North Dakota,Grant County ND,7,8,70.09
+North Dakota,Kidder County ND,7,8,76.34
+North Dakota,McLean County ND,7,8,74.05
+North Dakota,Nelson County ND,7,8,79.4
+North Dakota,Ransom County ND,7,8,76.36
+North Dakota,Richland County ND,5,6,77.99
+North Dakota,Steele County ND,7,8,69.59
+North Dakota,Traill County ND,7,8,75.87
+Ohio,Ashland County OH,5,4,72.1
+Ohio,Ashtabula County OH,3,4,69.24
+Ohio,Athens County OH,5,4,85.55
+Ohio,Auglaize County OH,5,4,71.62
+Ohio,Champaign County OH,5,6,67.47
+Ohio,Clinton County OH,3,6,67.28
+Ohio,Columbiana County OH,5,4,69.61
+Ohio,Coshocton County OH,3,6,63.16
+Ohio,Crawford County OH,5,4,68.85
+Ohio,Darke County OH,5,6,68.9
+Ohio,Defiance County OH,5,4,64.65
+Ohio,Fayette County OH,3,6,64.7
+Ohio,Gallia County OH,5,6,67.97
+Ohio,Guernsey County OH,5,6,68.64
+Ohio,Hancock County OH,5,4,70.27
+Ohio,Huron County OH,5,4,68.54
+Ohio,Knox County OH,3,4,65.07
+Ohio,Logan County OH,3,6,67.89
+Ohio,Marion County OH,3,4,66.5
+Ohio,Morgan County OH,7,6,69.18
+Ohio,Muskingum County OH,3,4,67.53
+Ohio,Ross County OH,3,4,69.24
+Ohio,Sandusky County OH,5,4,70.41
+Ohio,Scioto County OH,5,4,71.73
+Ohio,Seneca County OH,5,4,70.15
+Ohio,Shelby County OH,5,4,67.62
+Ohio,Tuscarawas County OH,5,4,68.09
+Ohio,Van Wert County OH,5,6,68.81
+Ohio,Wayne County OH,3,4,63.77
+Ohio,Williams County OH,9,6,66.8
+Oklahoma,Bryan County OK,5,6,68.88
+Oklahoma,Cherokee County OK,5,6,71.77
+Oklahoma,Jefferson County OK,7,8,62.66
+Oklahoma,Muskogee County OK,5,4,65.68
+Oklahoma,Ottawa County OK,5,6,62.9
+Oklahoma,Payne County OK,5,4,83.52
+Oklahoma,Pottawatomie County OK,3,4,65.6
+Oklahoma,Stephens County OK,5,4,65.17
+Oklahoma,Washington County OK,5,4,66.35
+Oregon,Clatsop County OR,3,4,72.48
+Oregon,Crook County OR,5,6,70.29
+Oregon,Douglas County OR,5,4,73.06
+Oregon,Hood River County OR,3,6,68.19
+Oregon,Malheur County OR,5,6,60.37
+Oregon,Morrow County OR,5,6,62.44
+Oregon,Wasco County OR,3,6,67.75
+Pennsylvania[E],Bradford County PA,5,6,70.19
+Pennsylvania[E],Clearfield County PA,5,4,71.78
+Pennsylvania[E],Clinton County PA,5,4,70.28
+Pennsylvania[E],Crawford County PA,5,4,70.07
+Pennsylvania[E],Fulton County PA,7,8,70.52
+Pennsylvania[E],Huntingdon County PA,5,6,72.68
+Pennsylvania[E],Indiana County PA,3,4,76.68
+Pennsylvania[E],Juniata County PA,7,6,65.39
+Pennsylvania[E],Lawrence County PA,3,4,71.04
+Pennsylvania[E],Mifflin County PA,5,4,66.01
+Pennsylvania[E],Northumberland County PA,5,4,71.67
+Pennsylvania[E],Schuylkill County PA,5,4,75.54
+Pennsylvania[E],Somerset County PA,5,4,70.85
+Pennsylvania[E],Sullivan County PA,7,8,84.18
+Pennsylvania[E],Susquehanna County PA,7,6,71.86
+Pennsylvania[E],Union County PA,5,4,77.18
+Pennsylvania[E],Venango County PA,3,4,73.32
+Pennsylvania[E],Warren County PA,5,6,68.98
+South Carolina,Cherokee County SC,5,4,66.9
+South Carolina,Colleton County SC,5,6,62.63
+South Carolina,Dillon County SC,5,6,61.68
+South Carolina,Georgetown County SC,5,4,69.34
+South Carolina,Greenwood County SC,5,4,60.86
+South Carolina,McCormick County SC,7,8,76.85
+South Carolina,Marlboro County SC,5,6,68.71
+South Carolina,Newberry County SC,5,6,67.73
+South Carolina,Oconee County SC,5,4,71.96
+South Carolina,Orangeburg County SC,5,4,68.53
+South Carolina,Union County SC,5,2,67.16
+South Dakota,Clay County SD,5,6,82.84
+South Dakota,Fall River County SD,11,6,73.29
+South Dakota,Haakon County SD,7,8,73.08
+South Dakota,Hanson County SD,5,8,60.71
+South Dakota,Hutchinson County SD,7,8,66.33
+South Dakota,Jackson County SD,7,8,57.66
+South Dakota,Lawrence County SD,5,6,78.89
+South Dakota,Miner County SD,7,8,72.06
+South Dakota,Moody County SD,7,8,70.5
+South Dakota,Oglala Lakota County SD,11,6,60.97
+Tennessee,Bedford County TN,3,4,60.14
+Tennessee,Bledsoe County TN,7,8,76.72
+Tennessee,Campbell County TN,5,2,73.56
+Tennessee,Cocke County TN,5,6,68.15
+Tennessee,Coffee County TN,3,4,62.7
+Tennessee,Franklin County TN,5,6,72.15
+Tennessee,Greene County TN,5,4,69.38
+Tennessee,Grundy County TN,7,8,71.94
+Tennessee,Hancock County TN,7,8,71.13
+Tennessee,Haywood County TN,5,6,66.72
+Tennessee,Jackson County TN,3,8,73.32
+Tennessee,Johnson County TN,7,6,75.79
+Tennessee,Lawrence County TN,5,6,65.45
+Tennessee,McMinn County TN,5,4,70.95
+Tennessee,Meigs County TN,7,8,69.58
+Tennessee,Putnam County TN,3,4,72.64
+Tennessee,Roane County TN,5,2,72.28
+Tennessee,Sevier County TN,5,4,66.55
+Tennessee,Warren County TN,3,6,63.32
+Texas,Andrews County TX,5,6,59.73
+Texas,Bee County TX,5,6,67.7
+Texas,Cherokee County TX,5,6,62.28
+Texas,Coke County TX,7,8,68.23
+Texas,Cooke County TX,3,6,60.62
+Texas,Deaf Smith County TX,5,6,55.14
+Texas,Delta County TX,1,8,64.98
+Texas,Dickens County TX,7,8,70.77
+Texas,Donley County TX,7,8,68.82
+Texas,Fisher County TX,7,8,71.11
+Texas,Glasscock County TX,7,8,64.18
+Texas,Gray County TX,5,6,63.51
+Texas,Hale County TX,5,4,58.64
+Texas,Harrison County TX,5,4,60.59
+Texas,Henderson County TX,3,4,66.8
+Texas,Hockley County TX,5,6,61.98
+Texas,Hopkins County TX,3,6,64.51
+Texas,Hudspeth County TX,7,2,69.93
+Texas,Hutchinson County TX,5,6,62.96
+Texas,Jim Wells County TX,5,4,56.27
+Texas,Kerr County TX,3,4,67.51
+Texas,Kleberg County TX,5,4,66.24
+Texas,Leon County TX,7,8,64.95
+Texas,Marion County TX,7,8,71.66
+Texas,Matagorda County TX,3,4,61.41
+Texas,Navarro County TX,3,4,63.29
+Texas,Newton County TX,7,2,72.33
+Texas,Nolan County TX,5,6,61.3
+Texas,Oldham County TX,7,2,69.39
+Texas,Palo Pinto County TX,3,6,63.61
+Texas,San Jacinto County TX,1,8,65.21
+Texas,Schleicher County TX,7,8,63.45
+Texas,Shackelford County TX,7,8,65.28
+Texas,Starr County TX,5,4,54.79
+Texas,Sterling County TX,7,8,60.25
+Texas,Tyler County TX,7,6,69.87
+Texas,Upton County TX,7,8,57.62
+Texas,Walker County TX,3,4,79.33
+Texas,Washington County TX,3,6,67.89
+Texas,Wharton County TX,3,4,59.94
+Texas,Wilbarger County TX,5,6,65.51
+Texas,Willacy County TX,5,6,64.78
+Utah,Box Elder County UT,5,2,60.34
+Utah,Iron County UT,5,4,66.7
+Utah,Rich County UT,7,8,62.84
+Vermont,Bennington County VT,5,6,72.19
+Vermont,Lamoille County VT,7,8,75.7
+Vermont,Washington County VT,5,4,78.06
+Virginia[E],Accomack County VA,9,8,68.28
+Virginia[E],Bland County VA,7,8,82.06
+Virginia[E],Charlotte County VA,7,8,68.02
+Virginia[E],Cumberland County VA,1,8,69.32
+Virginia[E],Henry County VA,5,4,72.85
+Virginia[E],King and Queen County VA,1,8,72.61
+Virginia[E],Lee County VA,7,8,74.11
+Virginia[E],Louisa County VA,1,8,73.91
+Virginia[E],Madison County VA,7,8,67.82
+Virginia[E],Patrick County VA,7,8,74.47
+Virginia[E],Surry County VA,1,8,73.89
+Virginia[E],Westmoreland County VA,11,6,69.63
+Virginia[E],Martinsville city VA,5,4,65.78
+Washington,Garfield County WA,7,8,71.9
+Washington,Grays Harbor County WA,5,4,71.48
+Washington,Island County WA,3,4,76.52
+Washington,Kittitas County WA,3,4,85.61
+Washington,Lewis County WA,5,4,71.51
+Washington,Lincoln County WA,7,8,71.28
+Washington,Mason County WA,5,4,67.38
+Washington,Pend Oreille County WA,7,2,70.36
+Washington,Wahkiakum County WA,7,8,68.84
+Washington,Whitman County WA,5,4,92.02
+West Virginia,Barbour County WV,9,6,72.67
+West Virginia,Braxton County WV,7,8,73.04
+West Virginia,Calhoun County WV,7,8,76.66
+West Virginia,Greenbrier County WV,11,6,72.13
+West Virginia,Hardy County WV,7,6,68.23
+West Virginia,Marion County WV,5,4,71.49
+West Virginia,Mason County WV,5,6,70.28
+West Virginia,Monroe County WV,7,8,70.82
+West Virginia,Pendleton County WV,7,8,72.68
+West Virginia,Ritchie County WV,7,8,70.44
+West Virginia,Roane County WV,7,6,70.58
+West Virginia,Summers County WV,9,6,75.83
+West Virginia,Taylor County WV,5,6,73.23
+Wisconsin,Adams County WI,7,8,76.64
+Wisconsin,Bayfield County WI,7,8,72.8
+Wisconsin,Dodge County WI,3,4,74.75
+Wisconsin,Dunn County WI,5,6,80.3
+Wisconsin,Grant County WI,5,6,76.74
+Wisconsin,Green County WI,5,2,71.26
+Wisconsin,Jefferson County WI,3,4,72.84
+Wisconsin,Lafayette County WI,7,8,63.87
+Wisconsin,Lincoln County WI,5,6,78.27
+Wisconsin,Manitowoc County WI,5,4,74.53
+Wisconsin,Marinette County WI,5,6,73.94
+Wisconsin,Marquette County WI,7,8,71.64
+Wisconsin,Menominee County WI,7,8,44.53
+Wisconsin,Pepin County WI,7,8,68.83
+Wisconsin,Portage County WI,5,4,82.55
+Wisconsin,Sauk County WI,5,4,69.28
+Wisconsin,Trempealeau County WI,7,6,67.04
+Wisconsin,Walworth County WI,3,4,76.56
+Wisconsin,Wood County WI,5,4,72.3
+Wyoming,Albany County WY,5,4,88.9

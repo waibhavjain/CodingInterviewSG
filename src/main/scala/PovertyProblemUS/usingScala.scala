@@ -19,25 +19,20 @@ object usingScala extends App {
     }
   }
 
- val filteredData = data
+ val finalData = data
                     .filter(x=>x!=header)
                     .map(x=>x.split(",").toList)
                     .filter(x => toInt(x(4)) % 2 != 0)
                     .filter(x => toInt(x(5)) % 2 == 0)
-//                    .map(x => (mapping.get(x(1)).getOrElse("Nothing")
-//                                      ,x(2)+" "+x(1)
-//                                      ,x(4)
-//                                      ,x(5)
-//                                      ,"%05.2f".format(100*(1-(x(13).toFloat/x(7).toFloat)))))
-                   .map(x => mapping.get(x(1)).getOrElse("Nothing")
+                    .map(x => mapping.get(x(1)).getOrElse("Nothing")
                      +","+x(2)+" "+x(1)
                      +","+x(4)
                      +","+x(5)
                      +","+"%05.2f".format(100*(1-(x(13).toFloat/x(7).toFloat))))
 
-  val file = new File("output/finalData.csv")
+  val file = new File("output/finalDataUsingScala.csv")
   val bw = new BufferedWriter(new FileWriter(file))
-  for (line <- filteredData) {
+  for (line <- finalData) {
     bw.write(line+ '\n')
   }
   bw.close()
